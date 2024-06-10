@@ -14,7 +14,11 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: rgba(0, 0, 0, 0.632);
+    background-image:url(clouds.jpg) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    /* background-color: rgba(0, 0, 0, 0.632); */
 }
 
 .container{
